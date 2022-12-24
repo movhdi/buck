@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'HSEC8_160_01_L_RA'
+CLASS = IO
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "ARROW_PART_NUMBER", "ARROW_PRICE/STOCK", "MOUSER_TESTING_PART_NUMBER", "MOUSER_TESTING_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "SAMTEC", "HSEC8-160-01-L-RA" (!) = "", "HSEC816001LRA", "Other", "200-HSEC816001LRA", "https://www.mouser.co.uk/ProductDetail/Samtec/HSEC8-160-01-L-RA?qs=PB6%2FjmICvI0%2Fn8DfqkkCjQ%3D%3D", "HSEC8-160-01-L-RA", "https://www.arrow.com/en/products/hsec8-160-01-l-ra/samtec", "", "", "Standard Card Edge Connectors 0.80 mm Edge Rate  High-Speed Edge Card Connector, Vertical", "http://suddendocs.samtec.com/prints/hsec8-1xx-xx-x-ra-xx-xx-mkt.pdf", "5.2 mm"
+END_PART
+
+END.

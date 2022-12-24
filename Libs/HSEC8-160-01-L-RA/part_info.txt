@@ -1,0 +1,9 @@
+Manufacturer=SAMTEC
+PartNumber=HSEC8-160-01-L-RA
+PartCategory=Connector
+PackageCategory=Other
+PinCount=122
+Version=1.2
+Released=2019-07-17 09:34:47
+Downloaded=2022-12-24 19:39:21
+3D=Y

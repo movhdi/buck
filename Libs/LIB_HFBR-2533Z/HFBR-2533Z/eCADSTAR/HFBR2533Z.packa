@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "HFBR-2533Z"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2021-03-16-09:46:01)
+    (mountForm default
+        (footprintRef "HFBR2533Z")
+        (spec "System")
+    )
+)

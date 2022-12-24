@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART '280371_2'
+CLASS = IO
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "ARROW_PART_NUMBER", "ARROW_PRICE/STOCK", "MOUSER_TESTING_PART_NUMBER", "MOUSER_TESTING_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "TE Connectivity", "280371-2" (!) = "", "SHDR4W63P0X254_1X4_1250X500X1280P", "Header, Shrouded - Straight PTH Box", "571-280371-2", "https://www.mouser.co.uk/ProductDetail/TE-Connectivity/280371-2?qs=NCegfZXRvjgzX%2FK7rtD32w%3D%3D", "280371-2", "https://www.arrow.com/en/products/280371-2/te-connectivity?region=europe", "", "", "4 way 1 row straight shrouded header", "https://componentsearchengine.com/Datasheets/2/280371-2.pdf", "12.8 mm"
+END_PART
+
+END.

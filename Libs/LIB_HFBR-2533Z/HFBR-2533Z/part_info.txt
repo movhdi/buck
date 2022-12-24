@@ -1,0 +1,9 @@
+Manufacturer=Avago Technologies
+PartNumber=HFBR-2533Z
+PartCategory=Undefined or Miscellaneous
+PackageCategory=Other
+PinCount=6
+Version=1.2
+Released=2021-03-16 09:46:01
+Downloaded=2022-12-24 19:55:52
+3D=Y

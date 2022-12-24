@@ -1,0 +1,21 @@
+.61801525123 :1 ;Wurth Elektronik 618 Series 2.77 mm, 2.84 mm Pitch 15 Way Straight Through Hole Mount PCB D-sub Connector, Socket
+"61801525123"
+*STM J
+*NGS
+*PNM 1=1 2=2 3=3 4=4 5=5 6=6 7=7 8=8 9=9 10=10 11=11 12=12 13=13 14=14 15=15 16=MH1 17=MH2
+*PLB 1="1" 2="2" 3="3" 4="4" 5="5" 6="6" 7="7" 8="8" 9="9" 10="10" 11="11" 12="12" 13="13" 14="14" 15="15" 16="MH1" 17="MH2"
+*MXP 17
+*DFN 61801525123
+~!Manufacturer_Name (Wurth Elektronik)
+~!Manufacturer_Part_Number (61801525123)
+~!Mouser Part Number (710-61801525123)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Wurth-Elektronik/61801525123?qs=ZtY9WdtwX55glhDCqAc0Jg%3D%3D)
+~!Arrow Part Number (-)
+~!Arrow Price/Stock (-)
+~!Mouser Testing Part Number (-)
+~!Mouser Testing Price/Stock (-)
+~!Link Datasheet (https://katalog.we-online.de/em/datasheet/61801525123.pdf)
+~!Height (12.25mm)
+~!3D_Model (61801525123)
+"61801525123"
+1.1!U 2.1!U 3.1!U 4.1!U 5.1!U 6.1!U 7.1!U 8.1!U 9.1!U 10.1!U 11.1!U 12.1!U 13.1!U 14.1!U 15.1!U 16.1!U 17.1!U 

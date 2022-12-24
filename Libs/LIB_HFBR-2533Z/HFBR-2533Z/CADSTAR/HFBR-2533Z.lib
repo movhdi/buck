@@ -1,0 +1,20 @@
+.HFBR-2533Z :1 ;Fibre Optic Transmitters, Receivers, Transceivers V-Link Ext Distnce R x Vert RoHS
+HFBR2533Z
+*STM U
+*NGS
+*PLB 1="VO" 2="GROUND" 3="OPEN" 4="VCC" 5="DO NOT CONNECT_1" 8="DO NOT CONNECT_2"
+*MXP 7
+*DFN HFBR-2533Z
+~!Manufacturer_Name (Avago Technologies)
+~!Manufacturer_Part_Number (HFBR-2533Z)
+~!Mouser Part Number (630-HFBR-2533Z)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Broadcom-Avago/HFBR-2533Z?qs=jT9z6tsiFNk65rmydPk8Cg%3D%3D)
+~!Arrow Part Number (-)
+~!Arrow Price/Stock (-)
+~!Mouser Testing Part Number (-)
+~!Mouser Testing Price/Stock (-)
+~!Link Datasheet (https://docs.broadcom.com/docs/AV02-1501EN)
+~!Height (18.8mm)
+~!3D_Model (HFBR-2533Z)
+HFBR-2533Z
+1.1!U 2.1!U 3.1!U 4.1!U 5.1!U 8.1!U 

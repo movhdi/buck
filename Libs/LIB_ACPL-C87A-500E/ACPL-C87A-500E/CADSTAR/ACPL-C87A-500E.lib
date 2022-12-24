@@ -1,0 +1,20 @@
+.ACPL-C87A-500E :1 ;Broadcom, ACPL-C87A-500E Optocoupler, Surface Mount, 8-Pin SO
+SOIC127P1150X361-8N
+*STM IC
+*NGS
+*PLB 1="VDD1" 2="VIN" 3="SHDN" 4="GND1" 5="GND2" 6="VOUT-" 7="VOUT+" 8="VDD2"
+*MXP 8
+*DFN ACPL-C87A-500E
+~!Manufacturer_Name (Avago Technologies)
+~!Manufacturer_Part_Number (ACPL-C87A-500E)
+~!Mouser Part Number (630-ACPL-C87A-500E)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Broadcom-Avago/ACPL-C87A-500E?qs=mhB89zxvawnihD62lh78rg%3D%3D)
+~!Arrow Part Number (-)
+~!Arrow Price/Stock (-)
+~!Mouser Testing Part Number (-)
+~!Mouser Testing Price/Stock (-)
+~!Link Datasheet (https://docs.broadcom.com/docs/AV02-3563EN)
+~!Height (3.607mm)
+~!3D_Model (ACPL-C87A-500E)
+ACPL-C87A-500E
+1.1!U 2.1!U 3.1!U 4.1!U 8.1!U 7.1!U 6.1!U 5.1!U 

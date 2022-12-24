@@ -1,0 +1,9 @@
+Manufacturer=Würth Elektronik
+PartNumber=61802525123
+PartCategory=Connector
+PackageCategory=Other
+PinCount=27
+Version=1.2
+Released=2020-05-09 15:48:56
+Downloaded=2022-12-24 19:50:39
+3D=Y

@@ -1,0 +1,9 @@
+Manufacturer=onsemi
+PartNumber=DTC143ZET1G
+PartCategory=Transistor BJT NPN
+PackageCategory=SOT23 (3-Pin)
+PinCount=3
+Version=3.1
+Released=2018-02-26 20:21:44
+Downloaded=2022-12-24 20:11:25
+3D=Y

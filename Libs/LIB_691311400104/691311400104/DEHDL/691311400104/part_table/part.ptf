@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART '691311400104'
+CLASS = IO
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "ARROW_PART_NUMBER", "ARROW_PRICE/STOCK", "MOUSER_TESTING_PART_NUMBER", "MOUSER_TESTING_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Wurth Elektronik", "691311400104" (!) = "", "691311400104", "Other", "710-691311400104", "https://www.mouser.co.uk/ProductDetail/Wurth-Elektronik/691311400104?qs=E2PpAYvlWVteo26mZsjDSg%3D%3D", "", "", "", "", "WR-TBL Terminal block - serie 3114", "https://www.mouser.com/datasheet/2/445/6913114001xx-461066.pdf", "12.15 mm"
+END_PART
+
+END.

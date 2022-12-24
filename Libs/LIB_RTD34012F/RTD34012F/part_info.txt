@@ -1,0 +1,9 @@
+Manufacturer=TE Connectivity
+PartNumber=RTD34012F
+PartCategory=Relay or Contactor
+PackageCategory=Other
+PinCount=6
+Version=1.6
+Released=2020-07-24 08:56:15
+Downloaded=2022-12-24 19:54:13
+3D=Y

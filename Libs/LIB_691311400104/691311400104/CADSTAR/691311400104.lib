@@ -1,0 +1,20 @@
+.691311400104 :1 ;WR-TBL Terminal block - serie 3114
+"691311400104"
+*STM J
+*NGS
+*PLB 1="1" 2="2" 3="3" 4="4"
+*MXP 4
+*DFN 691311400104
+~!Manufacturer_Name (Wurth Elektronik)
+~!Manufacturer_Part_Number (691311400104)
+~!Mouser Part Number (710-691311400104)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Wurth-Elektronik/691311400104?qs=E2PpAYvlWVteo26mZsjDSg%3D%3D)
+~!Arrow Part Number (-)
+~!Arrow Price/Stock (-)
+~!Mouser Testing Part Number (-)
+~!Mouser Testing Price/Stock (-)
+~!Link Datasheet (https://www.mouser.com/datasheet/2/445/6913114001xx-461066.pdf)
+~!Height (12.15mm)
+~!3D_Model (691311400104)
+"691311400104"
+1.1!U 2.1!U 3.1!U 4.1!U 

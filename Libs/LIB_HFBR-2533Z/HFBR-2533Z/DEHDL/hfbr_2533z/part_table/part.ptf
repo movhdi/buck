@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'HFBR_2533Z'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "ARROW_PART_NUMBER", "ARROW_PRICE/STOCK", "MOUSER_TESTING_PART_NUMBER", "MOUSER_TESTING_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Avago Technologies", "HFBR-2533Z" (!) = "", "HFBR2533Z", "Other", "630-HFBR-2533Z", "https://www.mouser.co.uk/ProductDetail/Broadcom-Avago/HFBR-2533Z?qs=jT9z6tsiFNk65rmydPk8Cg%3D%3D", "", "", "", "", "Fibre Optic Transmitters, Receivers, Transceivers V-Link Ext Distnce R x Vert RoHS", "https://docs.broadcom.com/docs/AV02-1501EN", "18.8 mm"
+END_PART
+
+END.

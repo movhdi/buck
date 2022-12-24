@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART '61801525123'
+CLASS = IO
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "ARROW_PART_NUMBER", "ARROW_PRICE/STOCK", "MOUSER_TESTING_PART_NUMBER", "MOUSER_TESTING_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Wurth Elektronik", "61801525123" (!) = "", "61801525123", "Other", "710-61801525123", "https://www.mouser.co.uk/ProductDetail/Wurth-Elektronik/61801525123?qs=ZtY9WdtwX55glhDCqAc0Jg%3D%3D", "", "", "", "", "Wurth Elektronik 618 Series 2.77 mm, 2.84 mm Pitch 15 Way Straight Through Hole Mount PCB D-sub Connector, Socket", "https://katalog.we-online.de/em/datasheet/61801525123.pdf", "12.25 mm"
+END_PART
+
+END.

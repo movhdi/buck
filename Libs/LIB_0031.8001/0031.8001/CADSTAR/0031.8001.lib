@@ -1,0 +1,20 @@
+.0031.8001 :1 ;Schurter 10A PCB Mount Fuse Holder for 5 x 20mm Cartridge Fuse, 600V ac
+"00318001"
+*STM U
+*NGS
+*PLB 1="1" 2="2"
+*MXP 2
+*DFN 0031.8001
+~!Manufacturer_Name (SCHURTER)
+~!Manufacturer_Part_Number (0031.8001)
+~!Mouser Part Number (693-0031.8001)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Schurter/00318001?qs=O0rkjp6QUW03dujSw3t4tQ%3D%3D)
+~!Arrow Part Number (0031.8001)
+~!Link Arrow Price/Stock (https://www.arrow.com/en/products/0031.8001/schurter)
+~!Mouser Testing Part Number (-)
+~!Mouser Testing Price/Stock (-)
+~!Link Datasheet (http://www.schurterinc.com/bundles/snceschurter/epim/_ProdPool_/newDS/en/typ_OG__Holder__5x20.pdf)
+~!Height (16mm)
+~!3D_Model (0031.8001)
+"0031.8001"
+1.1!U 2.1!U 

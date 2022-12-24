@@ -1,0 +1,9 @@
+Manufacturer=TE Connectivity
+PartNumber=280371-2
+PartCategory=Connector
+PackageCategory=Header, Shrouded - Straight PTH Box
+PinCount=4
+Version=3.1
+Released=2016-12-19 02:46:31
+Downloaded=2022-12-24 19:58:59
+3D=Y

@@ -1,0 +1,101 @@
+;Proteus Design Interchange Format
+(PDIF
+ (vendor "SamacSys Limited")
+ (version 1 0)
+ (library
+  (part "0031.8001"
+   (description "Schurter 10A PCB Mount Fuse Holder for 5 x 20mm Cartridge Fuse, 600V ac")
+   (family "ANA")
+   (package "00318001")
+   (attribute "Datasheet Link" "http://www.schurterinc.com/bundles/snceschurter/epim/_ProdPool_/newDS/en/typ_OG__Holder__5x20.pdf")
+   (attribute "Geometry.Height" "16mm")
+   (attribute "Manufacturer_Name" "SCHURTER")
+   (attribute "Manufacturer_Part_Number" "0031.8001")
+   (attribute "Mouser Part Number" "693-0031.8001")
+   (attribute "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Schurter/00318001?qs=O0rkjp6QUW03dujSw3t4tQ%3D%3D")
+   (attribute "Arrow Part Number" "0031.8001")
+   (attribute "Arrow Price/Stock" "https://www.arrow.com/en/products/0031.8001/schurter")
+   (attribute "Mouser Testing Part Number" "")
+   (attribute "Mouser Testing Price/Stock" "")
+   (gate
+    (symbol "0031.8001")
+    (pin "1" 1 PS)
+    (pin "2" 2 PS)
+   )
+  )
+  (symbol "0031.8001"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 200 100) (pt 600 100) (pt 600 -200) (pt 200 -200) (pt 200 100) (closed))
+   )
+   (terminal
+    (body (symbol "PIN") (pt 0 0) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -100) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+  )
+  (symbol "PIN"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 200 0))))
+  (symbol "PINSHORT"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 100 0))))
+  (package "00318001"
+   (units MM)
+   (layer TASM
+    (graphic
+     (stroke 0.2)
+     (path
+      (closed true)
+      (pt -2 4.75)
+      (pt 27 4.75)
+      (pt 27 -4.75)
+      (pt -2 -4.75)
+      (pt -2 4.75))))
+   (layer TSLK
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt -2 4.75)
+      (pt 27 4.75)
+      (pt 27 -4.75)
+      (pt -2 -4.75)
+      (pt -2 4.75))))
+   (layer OCCA
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt -2.5 5.25)
+      (pt 27.5 5.25)
+      (pt 27.5 -5.25)
+      (pt -2.5 -5.25)
+      (pt -2.5 5.25))))
+   (leg 1 (pt 0.000 0.000) (padstack 0))
+   (leg 2 (pt 25.000 0.000) (padstack 0))
+   (padstack 0
+    (hole 1.4)
+    (plated true)
+    (pad (layer TCOP) (round 2.100))
+    (pad (layer INNER) (round 2.100))
+    (pad (layer BCOP) (round 2.100))
+   )
+   (model "0031.8001.stp"
+    (euler 0 0 0)
+    (offset 0 0 0)
+   )
+  )
+ )
+)

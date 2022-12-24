@@ -1,0 +1,31 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#SamacSys ECAD Model RTD34012F
+#/849413/239672/2.49/6/4/Relay or Contactor
+DEF RTD34012F K 0 30 Y Y 1 F N
+F0 "K" 1150 300 50 H V L CNN
+F1 "RTD34012F" 1150 200 50 H V L CNN
+F2 "RTD34012F" 1150 100 50 H I L CNN
+F3 "https://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=RT1pb&DocType=DS&DocLang=English" 1150 0 50 H I L CNN
+F4 "TE Connectivity PCB Mount Non-Latching Relay - SPNO, 12V Coil, 16A Switching Current" 1150 -100 50 H I L CNN "Description"
+F5 "15.7" 1150 -200 50 H I L CNN "Height"
+F6 "TE Connectivity" 1150 -300 50 H I L CNN "Manufacturer_Name"
+F7 "RTD34012F" 1150 -400 50 H I L CNN "Manufacturer_Part_Number"
+F8 "655-RTD34012F" 1150 -500 50 H I L CNN "Mouser Part Number"
+F9 "https://www.mouser.co.uk/ProductDetail/TE-Connectivity-PB/RTD34012F?qs=xBghIHTbXkif3RDRm%2FBtiA%3D%3D" 1150 -600 50 H I L CNN "Mouser Price/Stock"
+F10 "RTD34012F" 1150 -700 50 H I L CNN "Arrow Part Number"
+F11 "https://www.arrow.com/en/products/rtd34012f/te-connectivity" 1150 -800 50 H I L CNN "Arrow Price/Stock"
+F12 "" 1150 -900 50 H I L CNN "Mouser Testing Part Number"
+F13 "" 1150 -1000 50 H I L CNN "Mouser Testing Price/Stock"
+DRAW
+X COM_1 11 0 -100 200 R 50 50 0 0 P
+X NO_1 14 0 -200 200 R 50 50 0 0 P
+X NO_2 15 1300 -200 200 L 50 50 0 0 P
+X COM_2 18 1300 -100 200 L 50 50 0 0 P
+X COIL_1 A1 1300 0 200 L 50 50 0 0 P
+X COIL_2 A2 0 0 200 R 50 50 0 0 P
+P 5 0 1 6 200 100 1100 100 1100 -300 200 -300 200 100 N
+ENDDRAW
+ENDDEF
+#
+#End Library

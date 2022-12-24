@@ -1,0 +1,21 @@
+.RTD34012F :1 ;TE Connectivity PCB Mount Non-Latching Relay - SPNO, 12V Coil, 16A Switching Current
+RTD34012F
+*STM K
+*NGS
+*PNM 1=11 2=14 3=15 4=18 5=A1 6=A2
+*PLB 1="COM_1" 2="NO_1" 3="NO_2" 4="COM_2" 5="COIL_1" 6="COIL_2"
+*MXP 6
+*DFN RTD34012F
+~!Manufacturer_Name (TE Connectivity)
+~!Manufacturer_Part_Number (RTD34012F)
+~!Mouser Part Number (655-RTD34012F)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/TE-Connectivity-PB/RTD34012F?qs=xBghIHTbXkif3RDRm%2FBtiA%3D%3D)
+~!Arrow Part Number (RTD34012F)
+~!Link Arrow Price/Stock (https://www.arrow.com/en/products/rtd34012f/te-connectivity)
+~!Mouser Testing Part Number (-)
+~!Mouser Testing Price/Stock (-)
+~!Link Datasheet (https://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=RT1pb&DocType=DS&DocLang=English)
+~!Height (15.7mm)
+~!3D_Model (RTD34012F)
+RTD34012F
+1.1!U 2.1!U 3.1!U 4.1!U 5.1!U 6.1!U 

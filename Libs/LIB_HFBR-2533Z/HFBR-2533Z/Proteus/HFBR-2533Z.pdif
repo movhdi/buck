@@ -1,0 +1,255 @@
+;Proteus Design Interchange Format
+(PDIF
+ (vendor "SamacSys Limited")
+ (version 1 0)
+ (library
+  (part "HFBR-2533Z"
+   (description "Fibre Optic Transmitters, Receivers, Transceivers V-Link Ext Distnce R x Vert RoHS")
+   (family "ANA")
+   (package "HFBR2533Z")
+   (attribute "Datasheet Link" "https://docs.broadcom.com/docs/AV02-1501EN")
+   (attribute "Geometry.Height" "18.8mm")
+   (attribute "Manufacturer_Name" "Avago Technologies")
+   (attribute "Manufacturer_Part_Number" "HFBR-2533Z")
+   (attribute "Mouser Part Number" "630-HFBR-2533Z")
+   (attribute "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Broadcom-Avago/HFBR-2533Z?qs=jT9z6tsiFNk65rmydPk8Cg%3D%3D")
+   (attribute "Arrow Part Number" "")
+   (attribute "Arrow Price/Stock" "")
+   (attribute "Mouser Testing Part Number" "")
+   (attribute "Mouser Testing Price/Stock" "")
+   (gate
+    (symbol "HFBR-2533Z")
+    (pin "VO" 1 PS)
+    (pin "GROUND" 2 PS)
+    (pin "OPEN" 3 PS)
+    (pin "VCC" 4 PS)
+    (pin "DO_NOT_CONNECT_1" 5 PS)
+    (pin "DO_NOT_CONNECT_2" 8 PS)
+   )
+  )
+  (symbol "HFBR-2533Z"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 200 100) (pt 1600 100) (pt 1600 -400) (pt 200 -400) (pt 200 100) (closed))
+   )
+   (terminal
+    (body (symbol "PIN") (pt 1800 -300) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 1800 -200) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 1800 -100) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 1800 0) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 0) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -100) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+  )
+  (symbol "PIN"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 200 0))))
+  (symbol "PINSHORT"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 100 0))))
+  (package "HFBR2533Z"
+   (units MM)
+   (layer TASM
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt 1.27 0)
+      (pt 3.81 0)
+      (pt 3.81 0)
+      (pt 1.27 0)
+      (pt 1.27 0))))
+   (layer TASM
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt 3.81 0)
+      (pt 3.81 0)
+      (pt 3.81 8.94)
+      (pt 3.81 8.94)
+      (pt 3.81 0))))
+   (layer TASM
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt 1.27 8.94)
+      (pt 3.81 8.94)
+      (pt 3.81 8.94)
+      (pt 1.27 8.94)
+      (pt 1.27 8.94))))
+   (layer TASM
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt -8.89 8.94)
+      (pt -8.89 8.94)
+      (pt -8.89 -9.35)
+      (pt -8.89 -9.35)
+      (pt -8.89 8.94))))
+   (layer TASM
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt -8.89 -9.35)
+      (pt 1.27 -9.35)
+      (pt 1.27 -9.35)
+      (pt -8.89 -9.35)
+      (pt -8.89 -9.35))))
+   (layer TASM
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt 1.27 -9.35)
+      (pt 1.27 -9.35)
+      (pt 1.27 0)
+      (pt 1.27 0)
+      (pt 1.27 -9.35))))
+   (layer TASM
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt -8.89 8.94)
+      (pt 1.27 8.94)
+      (pt 1.27 8.94)
+      (pt -8.89 8.94)
+      (pt -8.89 8.94))))
+   (layer TSLK
+    (graphic
+     (stroke 0.2)
+     (path
+      (closed true)
+      (pt -8.89 8.94)
+      (pt -8.89 8.94)
+      (pt -8.89 -9.35)
+      (pt -8.89 -9.35)
+      (pt -8.89 8.94))))
+   (layer TSLK
+    (graphic
+     (stroke 0.2)
+     (path
+      (closed true)
+      (pt -8.89 -9.35)
+      (pt 1.27 -9.35)
+      (pt 1.27 -9.35)
+      (pt -8.89 -9.35)
+      (pt -8.89 -9.35))))
+   (layer TSLK
+    (graphic
+     (stroke 0.2)
+     (path
+      (closed true)
+      (pt 1.27 -9.35)
+      (pt 1.27 -9.35)
+      (pt 1.27 0)
+      (pt 1.27 0)
+      (pt 1.27 -9.35))))
+   (layer TSLK
+    (graphic
+     (stroke 0.2)
+     (path
+      (closed true)
+      (pt 1.27 0)
+      (pt 3.81 0)
+      (pt 3.81 0)
+      (pt 1.27 0)
+      (pt 1.27 0))))
+   (layer TSLK
+    (graphic
+     (stroke 0.2)
+     (path
+      (closed true)
+      (pt 3.81 0)
+      (pt 3.81 0)
+      (pt 3.81 8.94)
+      (pt 3.81 8.94)
+      (pt 3.81 0))))
+   (layer TSLK
+    (graphic
+     (stroke 0.2)
+     (path
+      (closed true)
+      (pt 3.81 8.94)
+      (pt -8.89 8.94)
+      (pt -8.89 8.94)
+      (pt 3.81 8.94)
+      (pt 3.81 8.94))))
+   (layer OCCA
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt -9.89 9.94)
+      (pt 4.81 9.94)
+      (pt 4.81 -10.35)
+      (pt -9.89 -10.35)
+      (pt -9.89 9.94))))
+   (layer TSLK
+    (graphic
+     (stroke 0.2)
+     (path
+      (closed false)
+      (pt 4.4 0)
+      (arc (pt 4.400 0.000) (pt 4.300 -0.050) (pt 4.400 0.050) (start 180.0) (sweep .0))
+      (pt 4.3 0)
+      (arc (pt 4.300 0.000) (pt 4.300 -0.050) (pt 4.400 0.050) (start 180.0) (sweep 180.0))
+      (pt 4.4 0)
+      (arc (pt 4.400 0.000) (pt 4.300 -0.050) (pt 4.400 0.050) (start 180.0) (sweep .0))
+      (pt 4.3 0))))
+   (leg 1 (pt 0.000 0.000) (padstack 0))
+   (leg 2 (pt -2.540 0.000) (padstack 0))
+   (leg 3 (pt -5.080 0.000) (padstack 0))
+   (leg 4 (pt -7.620 0.000) (padstack 0))
+   (leg 5 (pt -7.620 -7.620) (padstack 0))
+   (leg 8 (pt 0.000 -7.620) (padstack 0))
+   (leg MH1 (pt -3.810 -3.810) (padstack 7))
+   (padstack 0
+    (hole 1.01)
+    (plated true)
+    (pad (layer TCOP) (round 1.515))
+    (pad (layer INNER) (round 1.515))
+    (pad (layer BCOP) (round 1.515))
+   )
+   (padstack 7
+    (hole 2.25)
+    (plated false)
+    (pad (layer TCOP) (round 1.125))
+    (pad (layer INNER) (round 1.125))
+    (pad (layer BCOP) (round 1.125))
+   )
+   (model "HFBR-2533Z.stp"
+    (euler 0 0 0)
+    (offset 0 0 0)
+   )
+  )
+ )
+)

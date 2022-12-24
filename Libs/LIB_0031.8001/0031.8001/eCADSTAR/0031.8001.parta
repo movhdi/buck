@@ -1,0 +1,70 @@
+(Japanese_coding: sjis)
+(function "ECS_709807"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2019-11-22-16:38:20)
+    (utime 2019-11-23-07:05:40)
+    (interface
+        (port "1" (symbPinId 1) (portType INOUT))
+        (port "2" (symbPinId 2) (portType INOUT))
+    )
+    (property "symbolName" "0031_8001")
+)
+
+
+(pinAssign "ECS_709807"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2019-11-22-16:38:20)
+    (utime 2019-11-23-07:05:40)
+    (interface
+        (port "1" (symbPinId 1) (portName "1") (portType INOUT))
+        (port "2" (symbPinId 2) (portName "2") (portType INOUT))
+    )
+    (internal
+        (funcInst (functionRef "ECS_709807")
+                (port "1" (match "1"))
+                (port "2" (match "2"))
+        )
+    )
+    (property "usePowerBox" "No")
+    (property "symbolName" "0031_8001")
+)
+
+
+(part "0031_8001"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2019-11-22-16:38:20)
+    (utime 2019-11-23-07:05:40)
+    (packageRef "0031_8001")
+    (pinAssignRef "ECS_709807")
+    (interface
+        (port "1" (symbPinId 1) (portName "1") (portType INOUT))
+        (port "2" (symbPinId 2) (portName "2") (portType INOUT))
+    )
+    (partClass UNDEF)
+    (useInSchema Y)
+    (useInLayout Y)
+    (inPartsList Y)
+    (partType NORMAL)
+    (placeRestriction FREE)
+    (property "enetNonSeries" "YES")
+    (property "refDesPrefix" "U")
+    (property "description" "Schurter 10A PCB Mount Fuse Holder for 5 x 20mm Cartridge Fuse, 600V ac")
+    (property "Manufacturer_Name" "SCHURTER")
+    (property "Manufacturer_Part_Number" "0031.8001")
+    (property "Mouser_Part_Number" "693-0031.8001")
+    (property "Mouser_Price/Stock" "https://www.mouser.co.uk/ProductDetail/Schurter/00318001?qs=O0rkjp6QUW03dujSw3t4tQ%3D%3D")
+    (property "Arrow_Part_Number" "0031.8001")
+    (property "Arrow_Price/Stock" "https://www.arrow.com/en/products/0031.8001/schurter")
+    (property "Mouser_Testing_Part_Number" "")
+    (property "Mouser_Testing_Price/Stock" "")
+    (property "Datasheet_Link" "http://www.schurterinc.com/bundles/snceschurter/epim/_ProdPool_/newDS/en/typ_OG__Holder__5x20.pdf")
+    (property "compAreaTopHeight" 16)
+)
+
+

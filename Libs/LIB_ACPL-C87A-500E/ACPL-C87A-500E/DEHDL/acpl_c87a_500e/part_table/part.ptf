@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'ACPL_C87A_500E'
+CLASS = IC
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "ARROW_PART_NUMBER", "ARROW_PRICE/STOCK", "MOUSER_TESTING_PART_NUMBER", "MOUSER_TESTING_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Avago Technologies", "ACPL-C87A-500E" (!) = "", "SOIC127P1150X361-8N", "Small Outline Packages", "630-ACPL-C87A-500E", "https://www.mouser.co.uk/ProductDetail/Broadcom-Avago/ACPL-C87A-500E?qs=mhB89zxvawnihD62lh78rg%3D%3D", "", "", "", "", "Broadcom, ACPL-C87A-500E Optocoupler, Surface Mount, 8-Pin SO", "https://docs.broadcom.com/docs/AV02-3563EN", "3.607 mm"
+END_PART
+
+END.

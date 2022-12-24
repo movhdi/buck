@@ -1,0 +1,20 @@
+.280371-2 :1 ;4 way 1 row straight shrouded header
+SHDR4W63P0X254_1X4_1250X500X1280P
+*STM J
+*NGS
+*PLB 1="1" 2="2" 3="3" 4="4"
+*MXP 4
+*DFN 280371-2
+~!Manufacturer_Name (TE Connectivity)
+~!Manufacturer_Part_Number (280371-2)
+~!Mouser Part Number (571-280371-2)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/TE-Connectivity/280371-2?qs=NCegfZXRvjgzX%2FK7rtD32w%3D%3D)
+~!Arrow Part Number (280371-2)
+~!Link Arrow Price/Stock (https://www.arrow.com/en/products/280371-2/te-connectivity?region=europe)
+~!Mouser Testing Part Number (-)
+~!Mouser Testing Price/Stock (-)
+~!Link Datasheet (https://componentsearchengine.com/Datasheets/2/280371-2.pdf)
+~!Height (12.8mm)
+~!3D_Model (280371-2)
+"280371-2"
+1.1!U 2.1!U 3.1!U 4.1!U 

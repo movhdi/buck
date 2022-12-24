@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP DTC143ZET1G
+D ON Semiconductor, DTC143ZET1G NPN Digital Transistor, 100 mA 50 V 4.7 k, Ratio Of 0.1, 3-Pin SC-75
+K
+F http://www.onsemi.com/pub/Collateral/DTC143Z-D.PDF
+$ENDCMP
+#
+#End Doc Library
